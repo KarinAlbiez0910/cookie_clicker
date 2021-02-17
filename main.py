@@ -1,6 +1,6 @@
 from selenium import webdriver
 from time import time
-chrome_driver_path = "C:/Users/49176/Pyrhon London/cookie-clicker-project/chromedriver.exe"
+chrome_driver_path = "chromedriver.exe"
 
 time_over = time() + 5
 # 60 secs * 35
